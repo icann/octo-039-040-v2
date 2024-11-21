@@ -1,6 +1,6 @@
 # Informal Notes on Expected Changes in OCTO-039 and OCTO-040 for Version 2
 
-OCTO-039 () and OCTO-040 () will both be updated to version 2 in approximately April 2025.
+OCTO-039 (Introduction to Blockchain Name System Technologies) and OCTO-040 (Introduction to Blockchain Technologies) will both be updated to version 2 in approximately April 2025.
 In order to meet this deadline, all changes must be accepted by mid-March, 2025.
 
 The notes are meant to help track the expected changes to the two documents.
