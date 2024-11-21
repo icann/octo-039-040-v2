@@ -11,6 +11,8 @@ All questions about this should be sent to [Paul Hoffman](paul.hoffman@icann.org
 
 # OCTO-039
 
+Section 4: Add an appendix that describes a public ledger that is not a blockchain that can hold name system data like ownership, delegation, DNSSEC keys, and so on.
+
 # OCTO-040
 
 Section 6, paragraph 3 (before the bulleted list): remove "that you can fully trust that the transactions in the blockchain, and" because it is redundant.
