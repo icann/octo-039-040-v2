@@ -12,6 +12,7 @@ All questions about this should be sent to [Paul Hoffman](paul.hoffman@icann.org
 # OCTO-039
 
 Section 4: Add an appendix that describes a public ledger that is not a blockchain that can hold name system data like ownership, delegation, DNSSEC keys, and so on.
+The intended appendix will be [here](public-ledger.md).
 
 # OCTO-040
 
