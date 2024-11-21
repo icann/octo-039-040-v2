@@ -13,5 +13,8 @@ All questions about this should be sent to [Paul Hoffman](paul.hoffman@icann.org
 
 # OCTO-040
 
-Section 6, paragraph 3 (before the bulleted list), remove "that you can fully trust that the transactions in the blockchain, and" because it is redundant.
+Section 6, paragraph 3 (before the bulleted list): remove "that you can fully trust that the transactions in the blockchain, and" because it is redundant.
+
+Section 8, paragraph 3: replace *sidechain* with *independent chain* (three times).
+Apparently the blockchain ecosystem cannot agree on a single definition for "sidechain", but generally agrees that an "independent chain" is one that has no relationship with any other blockchain.
 
