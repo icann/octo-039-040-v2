@@ -12,12 +12,12 @@ All questions about this should be sent to [Paul Hoffman](paul.hoffman@icann.org
 # OCTO-039
 
 Section 4: Add an appendix that describes a public ledger that is not a blockchain that can hold name system data like ownership, delegation, DNSSEC keys, and so on.
-The intended appendix will be [here](public-ledger.md).
+The intended appendix is [here](public-ledger.md).
 
 # OCTO-040
 
 Section 6, paragraph 3 (before the bulleted list): remove "that you can fully trust that the transactions in the blockchain, and" because it is redundant.
 
 Section 8, paragraph 3: replace *sidechain* with *independent chain* (three times).
-Apparently the blockchain ecosystem cannot agree on a single definition for "sidechain", but generally agrees that an "independent chain" is one that has no relationship with any other blockchain.
+Apparently the blockchain ecosystem does agree on a single definition for "sidechain", but generally agrees that an "independent chain" is one that has no relationship with any other blockchain.
 
