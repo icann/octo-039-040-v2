@@ -17,6 +17,8 @@ All questions about this should be sent to [Paul Hoffman](paul.hoffman@icann.org
 Section 4: Add an appendix that describes a public ledger that is not a blockchain that can hold name system data like ownership, delegation, DNSSEC keys, and so on.
 The intended appendix is [here](public-ledger.md).
 
+Replace the current appendix with a longer one that lists features for a handful of blockchain name systems to help readers compare them.
+
 Add pointer to SAC123, SSAC Report on the Evolution of Internet Name Resolution.
 
 ## OCTO-040
@@ -29,7 +31,7 @@ Add a section on blockchain standards that orginate from recognized SDOs such as
 
 Add an appendix on chain-specific specs such as BIPs and ERCs. Maybe Enterprise Ethereum Alliance. Maybe mention CASA and Chain Agnostic Improvement Proposals.
 
-
+Add an appendix that lists features for a handful of blockchains to help readers compare them.
 
 ### Already Done
 
