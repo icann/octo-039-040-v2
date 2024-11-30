@@ -17,6 +17,8 @@ All questions about this should be sent to [Paul Hoffman](paul.hoffman@icann.org
 Section 4: Add an appendix that describes a public ledger that is not a blockchain that can hold name system data like ownership, delegation, DNSSEC keys, and so on.
 The intended appendix is [here](public-ledger.md).
 
+Add much more emphasis that, because the public interfaces with resolvers and not to blockchains, the operation of the resolver is more important than the blockchain contents.
+
 Replace the current appendix with a longer one that lists features for a handful of blockchain name systems to help readers compare them.
 
 Add pointer to SAC123, SSAC Report on the Evolution of Internet Name Resolution.
