@@ -10,9 +10,9 @@ Thus, this repo is used for noting changes and getting external comments on them
 All questions about this should be sent to [Paul Hoffman](paul.hoffman@icann.org).
 
 
-## OCTO-039
+## 1. OCTO-039
 
-### To Do and/or Think About
+### 1.1 To Do and/or Think About
 
 Section 4: Add an appendix that describes a public ledger that is not a blockchain that can hold name system data like ownership, delegation, DNSSEC keys, and so on.
 The intended appendix is [here](public-ledger.md).
@@ -23,21 +23,21 @@ Replace the current appendix with a longer one that lists features for a handful
 
 Add pointer to SAC123, SSAC Report on the Evolution of Internet Name Resolution.
 
-## OCTO-040
+## 2. OCTO-040
 
-### To Do and/or Think About
+### 2.1 To Do and/or Think About
 
 Briefly talk about how some blockchains reuse or expand earlier blockchains' VMs.
 
-Add a section on blockchain standards that orginate from recognized SDOs such as ISO, ITU-x, and IEEE.
+Add a section on blockchain standards that originate from recognized SDOs such as ISO, ITU-x, and IEEE.
 
 Add an appendix on chain-specific specs such as BIPs and ERCs. Maybe Enterprise Ethereum Alliance. Maybe mention CASA and Chain Agnostic Improvement Proposals.
 
 Add an appendix that lists features for a handful of blockchains to help readers compare them.
 
-### Already Done
+### 2.2 Already Done
 
-Items in this section have already been endtered in the Word file for the upcoming v2 document.
+Items in this section have already been entered in the Word file for the upcoming v2 document.
 
 Section 6, paragraph 3 (before the bulleted list): remove "that you can fully trust that the transactions in the blockchain, and" because it is redundant. (_done_)
 
