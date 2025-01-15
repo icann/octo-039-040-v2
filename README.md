@@ -14,6 +14,8 @@ All questions about this should be sent to [Paul Hoffman](paul.hoffman@icann.org
 
 ### 1.1 To Do and/or Think About
 
+Section 2: Answer the question "Why do some people think there are benefits to blockchain name systems, and what are those benefits?" a bit in Section 2, for readers who wonder why we're talking about them at all.
+
 Section 4: Add an appendix that describes a public ledger that is not a blockchain that can hold name system data like ownership, delegation, DNSSEC keys, and so on.
 The intended appendix is [here](public-ledger.md).
 
@@ -34,6 +36,8 @@ Add a section on blockchain standards that originate from recognized SDOs such a
 Add an appendix on chain-specific specs such as BIPs and ERCs. Maybe Enterprise Ethereum Alliance. Maybe mention CASA and Chain Agnostic Improvement Proposals.
 
 Add an appendix that lists features for a handful of blockchains to help readers compare them.
+
+Clarify that accounts must have unique identifiers on them.
 
 ### 2.2 Already Done
 
